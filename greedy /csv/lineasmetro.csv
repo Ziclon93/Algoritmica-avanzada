@@ -1,0 +1,123 @@
+Hospital de Bellvitge,364300,L1,r,41.344867, 2.10724
+Bellvitge,881000,L1,r,41.353674, 2.111433
+Avinguda Carrilet,1168840,L1,r,41.358788, 2.102643
+Rambla Just Oliveres,664720,L1,r,41.364413, 2.099955
+Can Serra,572970,L1,r,41.367951, 2.102723
+Florida,614820,L1,r,41.368509, 2.110044
+Torrassa,552700,L1,r,41.368563, 2.116568
+Santa Eulalia,1031410,L1,r,41.368969, 2.128596
+Mercat Nou,677880,L1,r,41.373251, 2.133568
+Placa Sants,455890,L1,r,41.375986, 2.135073
+Hostafrancs,430140,L1,r,41.375568, 2.143227
+Espanya,520680,L1,r,41.374727, 2.148457
+Rocafort,595500,L1,r,41.379473, 2.154605
+Urgell,511690,L1,r,41.382680, 2.158880
+Universitat,554460,L1,r,41.385678, 2.163886
+Catalunya,468760,L1,r,41.386703, 2.169729
+Urquinaona,526250,L1,r,41.389008, 2.173625
+Arc de Triomf,636420,L1,r,41.391691, 2.179842
+Marina,469370,L1,r,41.395577, 2.186658
+Glories,888180,L1,r,41.402266, 2.187502
+Clot,887200,L1,r,41.410392, 2.186814
+Navas,669170,L1,r,41.414792, 2.187529
+Sagrera,692130,L1,r,41.420679, 2.186424
+Fabra i Puig,859120,L1,r,41.429795, 2.183661
+Sant Andreu,1143930,L1,r,41.436626, 2.191199
+Torras i Bages,735250,L1,r,41.444259, 2.190852
+Trinitat Vella,722200,L1,r,41.449165, 2.193816
+Baro de Viver,540230,L1,r,41.449984, 2.199552
+Santa Coloma,735742,L1,r,41.451075, 2.208001
+Fondo,897910,L1,r,41.451460, 2.218467
+Paralel,182090,L2,purple,41.374932, 2.169321
+Sant Antoni,790750,L2,purple,41.379809, 2.163144
+Universitat,544885,L2,purple,41.385606, 2.163827
+Passeig de Gracia,660365,L2,purple,41.390122, 2.168195
+Tetuan,862457,L2,purple,41.394911, 2.175623
+Monumental,843190,L2,purple,41.400596, 2.179451
+Sagrada Familia,530363,L2,purple,41.404439, 2.174329
+Encants,1166500,L2,purple,41.407397, 2.182689
+Clot,486500,L2,purple,41.410416, 2.186867
+Bac de Roda,929519,L2,purple,41.415178, 2.195492
+Sant Marti,615489,L2,purple,41.419080, 2.200788
+La Pau,733356,L2,purple,41.424090, 2.205597
+Verneda,787455,L2,purple,41.430052, 2.209894
+Artigues|Sant Adria,824275,L2,purple,41.436202, 2.205086
+Sant Roc,1019040,L2,purple,41.435024, 2.227565
+Gorg,633860,L2,purple,41.440182, 2.233793
+Pep Ventura,555640,L2,purple,41.443905, 2.237970
+Zona Universitaria,429520,L3,limegreen,41.384337, 2.111591
+Palau Reial,650475,L3,limegreen,41.385991, 2.118472
+Maria Cristina,640435,L3,limegreen,41.387996, 2.126572
+Les Corts,691290,L3,limegreen,41.384136, 2.130850
+Placa Centre,635420,L3,limegreen,41.381970, 2.135873
+Sants Estacio,501320,L3,limegreen,41.380896, 2.141816
+Tarragona,499820,L3,limegreen,41.378517, 2.145293
+Espanya,673750,L3,limegreen,41.374598, 2.148425
+Poble Sec,725935,L3,limegreen,41.374987, 2.160255
+Paralel,741885,L3,limegreen,41.374851, 2.169982
+Drassanes,627020,L3,limegreen,41.376514, 2.175566
+Liceu,630200,L3,limegreen,41.381517, 2.172998
+Catalunya,607330,L3,limegreen,41.386711, 2.169708
+Passeig de Gracia,732065,L3,limegreen,41.390119, 2.167793
+Diagonal,646436,L3,limegreen,41.395608, 2.160334
+Fontana,901831,L3,limegreen,41.402585, 2.152722
+Lesseps,472090,L3,limegreen,41.405762, 2.150525
+Vallcarca,883310,L3,limegreen,41.412033, 2.144280
+Penitents,792300,L3,limegreen,41.418367, 2.140983
+Vall d'Hebron,809140,L3,limegreen,41.425233, 2.142554
+Montbau,628950,L3,limegreen,41.430242, 2.145334
+Mundet,643110,L3,limegreen,41.435661, 2.148569
+Valldaura,795770,L3,limegreen,41.438020, 2.156878
+Canyelles,924160,L3,limegreen,41.441761, 2.166409
+Roquetes,1074000,L3,limegreen,41.448194, 2.177062
+Trinitat Nova,782000,L3,limegreen,41.449074, 2.182236
+La Pau,340000,L4,goldenrod,41.424106, 2.205597
+Besos,596510,L4,goldenrod,41.420036, 2.210295
+Besos Mar,724760,L4,goldenrod,41.415179, 2.216071
+Maresme | Forum,776579,L4,goldenrod,41.411813, 2.216713
+Selva de Mar,503651,L4,goldenrod,41.408009, 2.209111
+Poblenou,676780,L4,goldenrod,41.403740, 2.203392
+Llacuna,672300,L4,goldenrod,41.399441, 2.197723
+Bogatell,669710,L4,goldenrod,41.394915, 2.191636
+Ciutadella,1154000,L4,goldenrod,41.387790, 2.193362
+Barceloneta,896170,L4,goldenrod,41.381803, 2.184841
+Jaume I,756610,L4,goldenrod,41.383881, 2.178472
+Urquinaona,639620,L4,goldenrod,41.388863, 2.173732
+Passeig de Gracia,587810,L4,goldenrod,41.390119, 2.167793
+Girona,669130,L4,goldenrod,41.394976, 2.170889
+Verdaguer,770250,L4,goldenrod,41.400025, 2.168640
+Joanic,833000,L4,goldenrod,41.406625, 2.163217
+Alfons X,758430,L4,goldenrod,41.412409, 2.166511
+Guinardo | Hospital de Sant Pau,790590,L4,goldenrod,41.415978, 2.174032
+Maragall,864790,L4,goldenrod,41.424177, 2.177488
+Llucmajor,1669550,L4,goldenrod,41.437095, 2.173352
+Via Julia,876090,L4,goldenrod,41.443707, 2.178630
+Trinitat Nova,702350,L4,goldenrod,41.449042, 2.182214
+Cornella Centre,196650,L5,darkblue,41.357482, 2.069938
+Gavarra,783941,L5,darkblue,41.357995, 2.079348
+Sant Ildefons,788622,L5,darkblue,41.363353, 2.084321
+Can Boixeres,691500,L5,darkblue,41.366595, 2.091474
+Can Vidalet,840180,L5,darkblue,41.371313, 2.099499
+Pubilla Cases,808590,L5,darkblue,41.373862, 2.107209
+Collblanc,1087400,L5,darkblue,41.375846, 2.118150
+Badal,686750,L5,darkblue,41.375572, 2.127445
+Placa Sants,653740,L5,darkblue,41.375753, 2.135170
+Sants Estacio,656540,L5,darkblue,41.380791, 2.141741
+Entenca,677470,L5,darkblue,41.384491, 2.145576
+Hospital Clinic,650550,L5,darkblue,41.388675, 2.151143
+Diagonal,912890,L5,darkblue,41.395689, 2.160404
+Verdaguer,869270,L5,darkblue,41.399961, 2.168629
+Sagrada Familia,769290,L5,darkblue,41.404471, 2.174543
+Sant Pau | Dos de Maig,842520,L5,darkblue,41.410767, 2.175973
+Camp de l'Arpa,662690,L5,darkblue,41.415050, 2.181529
+Sagrera,855270,L5,darkblue,41.420671, 2.186638
+Congres,600360,L5,darkblue,41.423487, 2.181218
+Maragall,459740,L5,darkblue,41.424097, 2.177402
+Virrei Amat,537990,L5,darkblue,41.430264, 2.174640
+Vilapicina,634010,L5,darkblue,41.430481, 2.167608
+Horta,688150,L5,darkblue,41.429690, 2.160471
+Trinitat Nova,300,L11,lightsage,41.449058, 2.182150
+Casa de l'Aigua,293280,L11,lightsage,41.451327, 2.184776
+Torre Baro | Vallbona,1186000,L11,lightsage,41.459239, 2.179957
+Ciutat Meridiana,524000,L11,lightsage,41.460824, 2.174682 
+Can Cuias,208000,L11,lightsage,41.462454, 2.172964
